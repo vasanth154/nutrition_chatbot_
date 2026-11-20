@@ -1,0 +1,31 @@
+food_name,category,calories_kcal_per_100g,protein_g_per_100g,carbs_g_per_100g,fat_g_per_100g,fiber_g_per_100g,sugar_g_per_100g
+Apple,Fruit,52,0.26,13.81,0.17,2.4,10.39
+Banana,Fruit,89,1.09,22.84,0.33,2.6,12.23
+Orange,Fruit,47,0.94,11.75,0.12,2.4,9.35
+Mango,Fruit,60,0.82,14.98,0.38,1.6,13.66
+Papaya,Fruit,43,0.47,10.82,0.26,1.7,7.82
+Watermelon,Fruit,30,0.61,7.55,0.15,0.4,6.2
+Guava,Fruit,68,2.55,14.32,0.95,5.4,8.92
+Pineapple,Fruit,50,0.54,13.12,0.12,1.4,9.85
+White Rice (cooked),Grain,130,2.69,28.17,0.28,0.4,0.05
+Brown Rice (cooked),Grain,123,2.74,25.58,0.97,1.6,0.24
+Idli,Indian food,58,2.0,12.0,0.4,0.8,0.2
+Dosa,Indian food,168,4.5,27.0,4.5,1.2,1.0
+Chapati,Indian food,297,9.8,46.1,7.5,7.6,2.0
+Cooked Dal,Indian food,116,9.0,20.1,0.4,7.9,1.8
+Sambar,Indian food,65,3.2,9.5,1.5,2.8,2.0
+Plain Curd,Dairy,61,3.5,4.7,3.3,0.0,4.7
+Milk (whole),Dairy,61,3.15,4.8,3.25,0.0,5.05
+Paneer,Dairy,265,18.3,1.2,20.8,0.0,1.0
+Boiled Egg,Protein,155,12.6,1.12,10.6,0.0,1.12
+Chicken Breast (cooked),Protein,165,31.0,0.0,3.6,0.0,0.0
+Fish (cooked),Protein,128,26.0,0.0,2.7,0.0,0.0
+Almonds,Nuts,579,21.15,21.55,49.93,12.5,4.35
+Peanuts,Nuts,567,25.8,16.1,49.2,8.5,4.7
+Potato (boiled),Vegetable,87,1.87,20.13,0.1,1.8,0.9
+Tomato,Vegetable,18,0.88,3.89,0.2,1.2,2.63
+Carrot,Vegetable,41,0.93,9.58,0.24,2.8,4.74
+Broccoli,Vegetable,34,2.82,6.64,0.37,2.6,1.7
+Oats (dry),Grain,389,16.9,66.3,6.9,10.6,0.99
+Bread (white),Grain,266,8.85,49.42,3.33,2.7,5.0
+Sweet Potato (boiled),Vegetable,76,1.37,17.72,0.14,2.5,5.74
